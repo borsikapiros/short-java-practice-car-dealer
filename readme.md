@@ -6,6 +6,7 @@ Illetve arra is megkér, hogy néhány lekérdezést is el lehessen végezni ada
 információk:
 A tábla azt tartalmazza, hogy egyes városokban egyes autókból mennyit adtak el.
 tábla neve:
+sold_car
 tábla oszlopai:
 id bigint auto_increment
 car_type VARCHAR(255)
